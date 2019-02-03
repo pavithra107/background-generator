@@ -1,0 +1,21 @@
+body { 
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+p { 
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 25px;
+    font-size: 18px;
+}
+img {
+    float: right;
+}
+footer {
+    clear: both;
+    text-align:center;
+    border: 10px inset #ADABAB;
+    padding: 0px 10px;
+    margin: 250px 550px;
+    width: 150px;
+}
